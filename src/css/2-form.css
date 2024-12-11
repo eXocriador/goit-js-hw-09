@@ -1,0 +1,11 @@
+.f-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  background-color: cadetblue;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-bottom: solid;
+  position: relative;
+}

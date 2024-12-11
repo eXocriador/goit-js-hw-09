@@ -1,0 +1,28 @@
+.g-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  background-color: palevioletred;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-bottom: solid;
+  position: relative;
+}
+
+.gallery {
+  width: 1440px;
+  height: 696px;
+  padding: 24px 156px;
+  background-color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.gallery-item {
+  width: 360px;
+  height: 200px;
+  background-size: cover;
+  overflow: hidden;
+}
